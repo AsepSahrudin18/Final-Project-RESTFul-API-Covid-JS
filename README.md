@@ -1,2 +1,6 @@
 # Final-Project-RESTFul-API-Covid-JS
-Final Project UAS_Menggunakan Expressjs
+
+## Stack
+* Menggunakan Framework Express.js (JavaScript)
+* Menggunakan Database MySQL
+* Menerapkan Arsitektur MVC
